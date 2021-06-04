@@ -12,8 +12,8 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-  <img align="center" alt="Lucas-Java" height="300" width="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img  height="30" width="40" align="right" alt="Rafa-yoda" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img  height="300" width="400" align="right" alt="Lucas" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
 </div>
  
  ##
